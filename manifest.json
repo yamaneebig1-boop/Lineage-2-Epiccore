@@ -1,0 +1,25 @@
+{
+  "manifestVersion": "1",
+  "files": [
+    {
+      "path": "system/eu/ItemName_ClassicAden-eu.dat",
+      "sha256": "E17B33047C949CBF80BA14F18FBD4A56ECDA6E25C8DAF788A2204E0E3F0B8694"
+    },
+    {
+      "path": "system/eu/SkillName_ClassicAden-eu.dat",
+      "sha256": "4299A0A308E45999869DD147355AD12238D0C4D94FA6C7436D747CCA54A67811"
+    },
+    {
+      "path": "system/eu/L2GameDataName.dat",
+      "sha256": "F01C8A9F407827755A490EDDB2F3017E90144DBD0F33B14E7219730B444F9756"
+    },
+    {
+      "path": "system/eu/RaidData_ClassicAden.dat",
+      "sha256": "EB53CE28BE21B0301284F790006C68ADA61D6BC6BBBD982A295EEF0FE1C08A7A"
+    },
+    {
+      "path": "system/eu/LCoinShopProduct_ClassicAden-eu.dat",
+      "sha256": "F03CFB845355860DCA78CBD75E6C5C4B1844E155A386B8BA8DA0D2CDD611413D"
+    }
+  ]
+}
