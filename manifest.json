@@ -1,29 +1,41 @@
 {
-  "manifestVersion": "1",
+  "manifestVersion": "0080fb66",
   "files": [
+    {
+      "path": "lang/en/ItemName_ClassicAden-eu.dat",
+      "sha256": "56561D8BB7484B17A20B541572B2DB1998D3CA88544F83D6F1D5DE31E86AD60C"
+    },
+    {
+      "path": "lang/en/L2GameDataName.dat",
+      "sha256": "58ABBBB0BD2B9AA0BE1C0594EBEF1CA29C92BBA21EDEDFAABFBE4FB9DDC68E5F"
+    },
+    {
+      "path": "lang/en/SkillName_ClassicAden-eu.dat",
+      "sha256": "6E37BA0071A5FF36CB56C50FB18E647BA7318FC66A90B872D9E3BEA2B7C782AC"
+    },
+    {
+      "path": "lang/th/ItemName_ClassicAden-eu.dat",
+      "sha256": "E17B33047C949CBF80BA14F18FBD4A56ECDA6E25C8DAF788A2204E0E3F0B8694"
+    },
+    {
+      "path": "lang/th/L2GameDataName.dat",
+      "sha256": "F01C8A9F407827755A490EDDB2F3017E90144DBD0F33B14E7219730B444F9756"
+    },
+    {
+      "path": "lang/th/SkillName_ClassicAden-eu.dat",
+      "sha256": "4299A0A308E45999869DD147355AD12238D0C4D94FA6C7436D747CCA54A67811"
+    },
     {
       "path": "launcher.cfg",
       "sha256": "71B6A9C6C83DF2D9DF59D864E06B94BE44CEAE3B71431985EB24CD20F6C1D374"
     },
     {
-      "path": "system/eu/ItemName_ClassicAden-eu.dat",
-      "sha256": "E17B33047C949CBF80BA14F18FBD4A56ECDA6E25C8DAF788A2204E0E3F0B8694"
-    },
-    {
-      "path": "system/eu/SkillName_ClassicAden-eu.dat",
-      "sha256": "4299A0A308E45999869DD147355AD12238D0C4D94FA6C7436D747CCA54A67811"
-    },
-    {
-      "path": "system/eu/L2GameDataName.dat",
-      "sha256": "F01C8A9F407827755A490EDDB2F3017E90144DBD0F33B14E7219730B444F9756"
+      "path": "system/eu/LCoinShopProduct_ClassicAden-eu.dat",
+      "sha256": "F03CFB845355860DCA78CBD75E6C5C4B1844E155A386B8BA8DA0D2CDD611413D"
     },
     {
       "path": "system/eu/RaidData_ClassicAden.dat",
       "sha256": "EB53CE28BE21B0301284F790006C68ADA61D6BC6BBBD982A295EEF0FE1C08A7A"
-    },
-    {
-      "path": "system/eu/LCoinShopProduct_ClassicAden-eu.dat",
-      "sha256": "F03CFB845355860DCA78CBD75E6C5C4B1844E155A386B8BA8DA0D2CDD611413D"
     }
   ]
 }
