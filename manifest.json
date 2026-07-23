@@ -1,5 +1,5 @@
 {
-  "manifestVersion": "0080fb66",
+  "manifestVersion": "0aebdb3f",
   "files": [
     {
       "path": "lang/en/ItemName_ClassicAden-eu.dat",
@@ -23,7 +23,7 @@
     },
     {
       "path": "lang/th/SkillName_ClassicAden-eu.dat",
-      "sha256": "4299A0A308E45999869DD147355AD12238D0C4D94FA6C7436D747CCA54A67811"
+      "sha256": "6E37BA0071A5FF36CB56C50FB18E647BA7318FC66A90B872D9E3BEA2B7C782AC"
     },
     {
       "path": "launcher.cfg",
