@@ -1,5 +1,5 @@
 {
-  "manifestVersion": "07428bf7",
+  "manifestVersion": "44d80d8f",
   "files": [
     {
       "path": "lang/en/ItemName_ClassicAden-eu.dat",
@@ -11,7 +11,7 @@
     },
     {
       "path": "lang/en/SkillName_ClassicAden-eu.dat",
-      "sha256": "6E37BA0071A5FF36CB56C50FB18E647BA7318FC66A90B872D9E3BEA2B7C782AC"
+      "sha256": "73B5220D13032FE352DB4A3CB6A10F7342F2A091A917C11D3ACF2DC9301B5BD4"
     },
     {
       "path": "lang/th/ItemName_ClassicAden-eu.dat",
@@ -23,7 +23,7 @@
     },
     {
       "path": "lang/th/SkillName_ClassicAden-eu.dat",
-      "sha256": "BB49D82A4B8A608AE82D127321CD6DE276E3B4B7CA7F9126868D33AAD9C88A05"
+      "sha256": "F6F734EB93B00AF4610EF367C8F3B839EC64F560F15FDC6BEEDEBC39379BA8F3"
     },
     {
       "path": "launcher.cfg",
@@ -36,6 +36,10 @@
     {
       "path": "system/eu/RaidData_ClassicAden.dat",
       "sha256": "EB53CE28BE21B0301284F790006C68ADA61D6BC6BBBD982A295EEF0FE1C08A7A"
+    },
+    {
+      "path": "system/eu/Skillgrp_ClassicAden.dat",
+      "sha256": "59E1825C21EB96983A6E3CC09D8A61ECC4AA3C5C00289E62D5F6EFC1EE7C6A3B"
     }
   ]
 }
