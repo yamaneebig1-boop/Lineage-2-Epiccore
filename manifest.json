@@ -1,5 +1,5 @@
 {
-  "manifestVersion": "2f428ab9",
+  "manifestVersion": "94711f0e",
   "files": [
     {
       "path": "lang/en/ItemName_ClassicAden-eu.dat",
@@ -40,6 +40,10 @@
     {
       "path": "system/eu/LCoinShopProduct_ClassicAden-eu.dat",
       "sha256": "F03CFB845355860DCA78CBD75E6C5C4B1844E155A386B8BA8DA0D2CDD611413D"
+    },
+    {
+      "path": "system/eu/ProductName_ClassicAden-eu.dat",
+      "sha256": "5766AFDD32121E46758592509A8E67345023033F7C2194A68310864A6544FB4E"
     },
     {
       "path": "system/eu/RaidData_ClassicAden.dat",
