@@ -1,5 +1,5 @@
 {
-  "manifestVersion": "94711f0e",
+  "manifestVersion": "02d32eba",
   "files": [
     {
       "path": "lang/en/ItemName_ClassicAden-eu.dat",
@@ -36,6 +36,10 @@
     {
       "path": "system/eu/EtcItemgrp_ClassicAden.dat",
       "sha256": "6ACEFE362300F3CADC2A2A3C87BB02D72E65849DB8ABF973099DD9B06DFACF54"
+    },
+    {
+      "path": "system/eu/ItemMultisell_ClassicAden-eu.dat",
+      "sha256": "8422442983B5D439E728C84CB89383FBE6E37BB043EBD662A04B1E7A11C77509"
     },
     {
       "path": "system/eu/LCoinShopProduct_ClassicAden-eu.dat",
