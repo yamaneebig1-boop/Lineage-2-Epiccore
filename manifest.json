@@ -1,5 +1,5 @@
 {
-  "manifestVersion": "ef0a6012",
+  "manifestVersion": "2f428ab9",
   "files": [
     {
       "path": "lang/en/ItemName_ClassicAden-eu.dat",
@@ -7,7 +7,7 @@
     },
     {
       "path": "lang/en/L2GameDataName.dat",
-      "sha256": "58ABBBB0BD2B9AA0BE1C0594EBEF1CA29C92BBA21EDEDFAABFBE4FB9DDC68E5F"
+      "sha256": "586466AB85FB2BBA263D98B8FA405DDC8025EB92B04F992EC6B0B4A59AEFF835"
     },
     {
       "path": "lang/en/SkillName_ClassicAden-eu.dat",
@@ -19,7 +19,7 @@
     },
     {
       "path": "lang/th/L2GameDataName.dat",
-      "sha256": "F01C8A9F407827755A490EDDB2F3017E90144DBD0F33B14E7219730B444F9756"
+      "sha256": "8B6D2EE9919C8D6E8F1ACFC3D4ED3AEF3C49DC909B77F9E31B85156478EA22B1"
     },
     {
       "path": "lang/th/SkillName_ClassicAden-eu.dat",
