@@ -1,9 +1,9 @@
 {
-  "manifestVersion": "61dd15c6",
+  "manifestVersion": "cf585c3f",
   "files": [
     {
       "path": "lang/en/ItemName_ClassicAden-eu.dat",
-      "sha256": "025CBD7042B1E3F0BB06DD687E04BA2ACCB7324A0E3D9F05D627A277AE69059E"
+      "sha256": "6CDD2771A28EBEE98CB06C3093E0242B08BF329DDBDEA7995D7FA55CC0205190"
     },
     {
       "path": "lang/en/L2GameDataName.dat",
@@ -15,7 +15,7 @@
     },
     {
       "path": "lang/th/ItemName_ClassicAden-eu.dat",
-      "sha256": "F238137B5DDA655E2C913F766FADF17B875AF5F81DE60821AF6493044F011D11"
+      "sha256": "991AA8B9AD68FCA3538873077512570D75EBA0FD9FB203BAA809BA5C53067959"
     },
     {
       "path": "lang/th/L2GameDataName.dat",
@@ -35,7 +35,7 @@
     },
     {
       "path": "system/eu/EtcItemgrp_ClassicAden.dat",
-      "sha256": "8FABCC6A274A46FEC291BA8678882B09781161365AFF4930A36BBBED9D5E1A6C"
+      "sha256": "73E55D13EF8824260B846062AD89BED6294AFEECC0B142288487BE3D2A5F3C93"
     },
     {
       "path": "system/eu/ItemMultisell_ClassicAden-eu.dat",
