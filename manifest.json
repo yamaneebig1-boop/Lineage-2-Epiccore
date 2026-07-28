@@ -1,6 +1,78 @@
 {
-  "manifestVersion": "3e839ceb",
+  "manifestVersion": "294dceec",
   "files": [
+    {
+      "path": "Animations/L2Suits_AGPGR_Valhalla.ukx",
+      "sha256": "82E5E8631568E2CA634FCE1A59425CF8E8D8B4FD90B78685340CC1C97BD3DAD8"
+    },
+    {
+      "path": "Animations/L2Suits_AGPG_Valhalla.ukx",
+      "sha256": "A197D72385C6B67BDB80D318CCC1D31159942DB145836100ACA7898F297D0F01"
+    },
+    {
+      "path": "Animations/L2Suits_AQM_Valhalla.ukx",
+      "sha256": "4FC9E8A28E3644BB10B58B769089FE617909DECD6B1E1F8D270F241C5D8D31A2"
+    },
+    {
+      "path": "Animations/L2Suits_CHAD_Valhalla.ukx",
+      "sha256": "82A27AAA46002539BFEFE24F9A2CE58720B6ACAFFA6AF3B6CD996E1C709EFCDA"
+    },
+    {
+      "path": "Animations/L2Suits_CHAG_Valhalla.ukx",
+      "sha256": "DA323F24B41BC9E34F49CB46D653F6E529EFBFDD7DF6724A2C73D6470788CDF9"
+    },
+    {
+      "path": "Animations/L2Suits_CRSBL_Valhalla.ukx",
+      "sha256": "4FB5E49217DA569E9907F1CA681564F8A847656F4C430E15819E53F2F4C2785F"
+    },
+    {
+      "path": "Animations/L2Suits_CRSGO_Valhalla.ukx",
+      "sha256": "BE859EC597785739B8486E6A7A7A0FE8CF1F800F9FCE39B5A6351FA50F2FB3F2"
+    },
+    {
+      "path": "Animations/L2Suits_CRSRE_Valhalla.ukx",
+      "sha256": "92200C31A8F9EFF3919366B255E1A41E9FB6E711815270BA00218A157FC36637"
+    },
+    {
+      "path": "Animations/L2Suits_CRSRO_Valhalla.ukx",
+      "sha256": "7A7100828B5A16EFA6331FC7C9163A7F43864826A3D036AF535CEFE5C4100C8F"
+    },
+    {
+      "path": "Animations/L2Suits_CRSSK_Valhalla.ukx",
+      "sha256": "1A930AA4CCDB9872590B71F8E4400268CA4C56921DE01A9EF3F23189348AFC3F"
+    },
+    {
+      "path": "Animations/L2Suits_MANC_Valhalla.ukx",
+      "sha256": "376DC3B73C7923D086D4282C1C84EC2A0D0D56F8882CA148292A38D3176DFF32"
+    },
+    {
+      "path": "Animations/L2Suits_MKICE_Valhalla.ukx",
+      "sha256": "3D9B7E2C147A356AC737D2FDF21A793AA427D45F662F5C57D16F5EFF8C5F6898"
+    },
+    {
+      "path": "Animations/L2Suits_MOONRB_Valhalla.ukx",
+      "sha256": "1A72DF2109CCBAB373DEEAC09BC4479429991A77883751034B90E008A77CE7A6"
+    },
+    {
+      "path": "Animations/L2Suits_MOONRD_Valhalla.ukx",
+      "sha256": "A7E553A5A39D669A47A2BEB6393DF6824D20531AA1661B0908616C0012C7633B"
+    },
+    {
+      "path": "Animations/L2Suits_MOONRR_Valhalla.ukx",
+      "sha256": "BEF2EC78C73AFA049C8A3DB581BEFE2365E549CC1EA3145F0839F8F012AE171A"
+    },
+    {
+      "path": "Animations/L2Suits_MerryM_Valhalla.ukx",
+      "sha256": "F520505449E650E2B9C57C993415A2A539B4B2C4B9138AA21EB2336737B893F2"
+    },
+    {
+      "path": "Animations/L2Suits_RABRB_Valhalla.ukx",
+      "sha256": "2D04BE925C5E77546185B74790C8FDB135DED082561197B1879A84A95B1B01D2"
+    },
+    {
+      "path": "Animations/L2Suits_RABRR_Valhalla.ukx",
+      "sha256": "8418E3BC6D5CA412CE946B14DF3E90ACFC9E2541B623A0180D2C76BC78A18646"
+    },
     {
       "path": "SysTextures/InnCostumes.utx",
       "sha256": "1A9515D52F962B7C61E341483A9F43ADD4A9C2DD498E5333B61A12CDEC0C3F4E"
