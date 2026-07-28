@@ -1,5 +1,5 @@
 {
-  "manifestVersion": "976a0d70",
+  "manifestVersion": "662e1998",
   "files": [
     {
       "path": "Animations/L2Suits_AGPGR_Valhalla.ukx",
@@ -119,7 +119,7 @@
     },
     {
       "path": "system/InterfaceClassic.xdat",
-      "sha256": "2073369C39796A13CE40BCCC9E4BB884DE5DA047626AA0DA1046ADCFCA9BE3A8"
+      "sha256": "4A8493C6FA5E951BB7431AE6DAC6A49CEE49612ACE4E63CD5735EA99F369D515"
     },
     {
       "path": "system/L2.ini",
