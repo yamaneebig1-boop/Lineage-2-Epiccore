@@ -1,13 +1,17 @@
 {
-  "manifestVersion": "cf585c3f",
+  "manifestVersion": "3e839ceb",
   "files": [
+    {
+      "path": "SysTextures/InnCostumes.utx",
+      "sha256": "1A9515D52F962B7C61E341483A9F43ADD4A9C2DD498E5333B61A12CDEC0C3F4E"
+    },
     {
       "path": "lang/en/ItemName_ClassicAden-eu.dat",
       "sha256": "6CDD2771A28EBEE98CB06C3093E0242B08BF329DDBDEA7995D7FA55CC0205190"
     },
     {
       "path": "lang/en/L2GameDataName.dat",
-      "sha256": "586466AB85FB2BBA263D98B8FA405DDC8025EB92B04F992EC6B0B4A59AEFF835"
+      "sha256": "7254DDF7BF35D46A77A49C072E711402DC250D51D657BEAC998A96780D3516AF"
     },
     {
       "path": "lang/en/SkillName_ClassicAden-eu.dat",
@@ -19,7 +23,7 @@
     },
     {
       "path": "lang/th/L2GameDataName.dat",
-      "sha256": "8B6D2EE9919C8D6E8F1ACFC3D4ED3AEF3C49DC909B77F9E31B85156478EA22B1"
+      "sha256": "BC821FD61A60CCAA47E6C618A6B7B97D616B1D875EC52EF6C5E0068564707153"
     },
     {
       "path": "lang/th/SkillName_ClassicAden-eu.dat",
@@ -30,8 +34,36 @@
       "sha256": "71B6A9C6C83DF2D9DF59D864E06B94BE44CEAE3B71431985EB24CD20F6C1D374"
     },
     {
+      "path": "system/Interface.u",
+      "sha256": "BBE067D767D269F7088F19CF0716EE908964755ECF4C7E2699314BBA68E2FF89"
+    },
+    {
+      "path": "system/Interface.xdat",
+      "sha256": "2E0F06810FD89304B075A16D66C7CEB01EEF3F1508441ADCE27C785C62F44CEB"
+    },
+    {
+      "path": "system/InterfaceClassic.u",
+      "sha256": "DB6486F15215B90199873DAFAE44904655BBB585F0B18CBA4BDBB2459E40F53A"
+    },
+    {
+      "path": "system/InterfaceClassic.xdat",
+      "sha256": "9C7088F9987C92D2359D3715D8CC0F60EC9A4B9615007614E8799782EEC694F9"
+    },
+    {
       "path": "system/L2.ini",
       "sha256": "1082F08B4BAEC5ED054DA5BCC9CCB9EBC3DAD33BC867C72E1980B3300DE67DD2"
+    },
+    {
+      "path": "system/L2UIEx.u",
+      "sha256": "31EBB5125A89F389766742980E3D5D940EC3460D7B02B06C9D1F2C161B827FCD"
+    },
+    {
+      "path": "system/eu/Armorgrp.dat",
+      "sha256": "89E67A8FCCD38FF5A8002EA2A039A741F95FF3E273CD0403EC1D0C9365AD3C71"
+    },
+    {
+      "path": "system/eu/Armorgrp_ClassicAden.dat",
+      "sha256": "11EBC210C864F1D8E57C6F5A709D3052DD734096E2689FC38515FB06C154933F"
     },
     {
       "path": "system/eu/EtcItemgrp_ClassicAden.dat",
@@ -56,6 +88,14 @@
     {
       "path": "system/eu/Skillgrp_ClassicAden.dat",
       "sha256": "59E1825C21EB96983A6E3CC09D8A61ECC4AA3C5C00289E62D5F6EFC1EE7C6A3B"
+    },
+    {
+      "path": "system/eu/character_style_ClassicAden-eu.dat",
+      "sha256": "A646C6541DDF3C17BDE48F02AC8BCC08A339A5724D78FEAAF1DBA0C99A3BB04B"
+    },
+    {
+      "path": "system/iconEx.u",
+      "sha256": "DCF53ECF1EDD3EB084A4F09B979C8874C8DFB5419F4DA8F79DC6E42498C46511"
     }
   ]
 }
