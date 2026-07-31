@@ -1,5 +1,5 @@
 {
-  "manifestVersion": "0d41d313",
+  "manifestVersion": "8d6b683b",
   "files": [
     {
       "path": "Animations/L2Suits_AGPGR_Valhalla.ukx",
@@ -119,11 +119,15 @@
     },
     {
       "path": "system/InterfaceClassic.xdat",
-      "sha256": "6122DA98D6E39AA6B19C0574851E9186EF1B62C27D76C10BFBE4482292D0B03B"
+      "sha256": "2115EAB9012BA478CD9AEC821E5A23856B0C7FEBC6290B50DB40FEE166E81070"
     },
     {
       "path": "system/L2.ini",
       "sha256": "5FD632DAB6AC07143CA4A0B6520B79C5FB6DEEB37FE4A025D6B0D9111255A8B8"
+    },
+    {
+      "path": "system/L2Thai.ttf",
+      "sha256": "10329405DFE1AD1DAEA79DDDBB1B0EED16CCD1A013261842664A9EA58961B3AF"
     },
     {
       "path": "system/L2UIEx.u",
