@@ -1,5 +1,5 @@
 {
-  "manifestVersion": "8d6b683b",
+  "manifestVersion": "ddfc02c3",
   "files": [
     {
       "path": "Animations/L2Suits_AGPGR_Valhalla.ukx",
@@ -150,6 +150,10 @@
       "sha256": "73E55D13EF8824260B846062AD89BED6294AFEECC0B142288487BE3D2A5F3C93"
     },
     {
+      "path": "system/eu/HuntingZone_ClassicAden-eu.dat",
+      "sha256": "3E1C1B448FB02B3AA3FCCBF46E198D6D01A7F9504AA890997A2EF83D0E0AC187"
+    },
+    {
       "path": "system/eu/ItemMultisell_ClassicAden-eu.dat",
       "sha256": "8422442983B5D439E728C84CB89383FBE6E37BB043EBD662A04B1E7A11C77509"
     },
@@ -163,15 +167,27 @@
     },
     {
       "path": "system/eu/RaidData_ClassicAden.dat",
-      "sha256": "EB53CE28BE21B0301284F790006C68ADA61D6BC6BBBD982A295EEF0FE1C08A7A"
+      "sha256": "30AEEB3D28309D733DB3E0DB388299E02580A8F60B5E3A936494FBC41BEF7E0F"
     },
     {
       "path": "system/eu/Skillgrp_ClassicAden.dat",
       "sha256": "59E1825C21EB96983A6E3CC09D8A61ECC4AA3C5C00289E62D5F6EFC1EE7C6A3B"
     },
     {
+      "path": "system/eu/SysString-eu.dat",
+      "sha256": "356CD58AA27951E4E7C869977F00FE9832C7DF4DCE61EF14BB033FCBECAFBA33"
+    },
+    {
+      "path": "system/eu/SysString_Classic-eu.dat",
+      "sha256": "CD86D3D021DDC1BA251B12AF63B906BC725289CCDEA858373FAAC2430DD8F8CD"
+    },
+    {
       "path": "system/eu/character_style_ClassicAden-eu.dat",
       "sha256": "A646C6541DDF3C17BDE48F02AC8BCC08A339A5724D78FEAAF1DBA0C99A3BB04B"
+    },
+    {
+      "path": "system/eu/teleportlist_ClassicAden.dat",
+      "sha256": "B0DA91C2C6AF9B81A286E48FE2F13DABFB6CF69A2F610E4B4FC8AEBE162CD35D"
     },
     {
       "path": "system/iconEx.u",
