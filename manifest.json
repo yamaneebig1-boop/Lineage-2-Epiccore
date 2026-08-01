@@ -1,5 +1,5 @@
 {
-  "manifestVersion": "7fac704b",
+  "manifestVersion": "61694563",
   "files": [
     {
       "path": "Animations/L2Suits_AGPGR_Valhalla.ukx",
@@ -87,7 +87,7 @@
     },
     {
       "path": "lang/en/SkillName_ClassicAden-eu.dat",
-      "sha256": "EF0BC37430725FD2D73A2C1A4449460A2B0AB1EC666A8B397000A57F67F979B0"
+      "sha256": "CB684EB77BDB9D9FC43BD839339830570D42105E0C15B56926D1D54678A9A848"
     },
     {
       "path": "lang/th/ItemName_ClassicAden-eu.dat",
@@ -99,7 +99,7 @@
     },
     {
       "path": "lang/th/SkillName_ClassicAden-eu.dat",
-      "sha256": "4486A2653A74CDC189E2094DD21157530466707EFBD2031D720516537CFC2201"
+      "sha256": "11898809468BDFAB54628275B1C55698EDAF972EC2B8AA09D3D69D05DFA9FA5D"
     },
     {
       "path": "launcher.cfg",
