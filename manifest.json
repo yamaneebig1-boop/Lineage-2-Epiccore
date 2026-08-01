@@ -1,5 +1,5 @@
 {
-  "manifestVersion": "e83c7a27",
+  "manifestVersion": "da4a4a09",
   "files": [
     {
       "path": "Animations/L2Suits_AGPGR_Valhalla.ukx",
@@ -79,7 +79,7 @@
     },
     {
       "path": "lang/en/ItemName_ClassicAden-eu.dat",
-      "sha256": "6CDD2771A28EBEE98CB06C3093E0242B08BF329DDBDEA7995D7FA55CC0205190"
+      "sha256": "97BD1A5667FC48CF0A40973ACEBAD03FC12D46964AC70F156E219DEA61665F40"
     },
     {
       "path": "lang/en/L2GameDataName.dat",
@@ -91,7 +91,7 @@
     },
     {
       "path": "lang/th/ItemName_ClassicAden-eu.dat",
-      "sha256": "991AA8B9AD68FCA3538873077512570D75EBA0FD9FB203BAA809BA5C53067959"
+      "sha256": "A9E6D6E9900801FC3958A3B73916732E23293711F48084498BADA21D6B5AFCB5"
     },
     {
       "path": "lang/th/L2GameDataName.dat",
