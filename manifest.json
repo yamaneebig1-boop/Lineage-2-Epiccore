@@ -1,5 +1,5 @@
 {
-  "manifestVersion": "df2be0dc",
+  "manifestVersion": "7fac704b",
   "files": [
     {
       "path": "Animations/L2Suits_AGPGR_Valhalla.ukx",
@@ -175,7 +175,7 @@
     },
     {
       "path": "system/eu/Skillgrp_ClassicAden.dat",
-      "sha256": "6ACD5DE669FAC73A2B360626D985CC467AF328E9C800CF3548540C5699E97AD9"
+      "sha256": "137B47556B198AA2DDEA74718E9D5D63015E8DC2F9AF2E156C9DB5B2BCB78F9E"
     },
     {
       "path": "system/eu/SysString-eu.dat",
