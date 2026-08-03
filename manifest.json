@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "manifestVersion": "6bb5f46b",
+=======
+  "manifestVersion": "bd2e0ed1",
+>>>>>>> 9739d0e (fix: update Skillgrp_ClassicAden.dat to include Cunning Arrow (id 1145014))
   "files": [
     {
       "path": "Animations/L2Suits_AGPGR_Valhalla.ukx",
@@ -175,6 +179,7 @@
     },
     {
       "path": "system/eu/Skillgrp_ClassicAden.dat",
+<<<<<<< HEAD
       "sha256": "B85C73C212C667B4DC3E857270A77D8F6B28301D3437029E4EFE1B43EF4F182A"
     },
     {
@@ -184,6 +189,10 @@
     {
       "path": "system/eu/SysString_Classic-eu.dat",
       "sha256": "CD86D3D021DDC1BA251B12AF63B906BC725289CCDEA858373FAAC2430DD8F8CD"
+=======
+      "sha256": "DAF84BB99AE4ABB126DBD3154A3C061CAF24852B279B3E7A480192DD8334F7E9",
+      "size": 529584
+>>>>>>> 9739d0e (fix: update Skillgrp_ClassicAden.dat to include Cunning Arrow (id 1145014))
     },
     {
       "path": "system/eu/character_style_ClassicAden-eu.dat",
